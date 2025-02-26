@@ -177,17 +177,17 @@ Tampilan menu Awal
 ```
 -------Instogram Menu-------
 Hi! Christian Chen
-/---------------\
-|               |
-|               |
-|               |
-|   Welcome to  |
-|Instogram|
-|               |
-|Powered by|
-|ISTTS|
-|_______________|
-\_____O_____/
+/--------------------\
+|                    |
+|                    |
+|                    |
+|   Welcome to       |
+|      Instogram     |
+|                    |
+|    Powered by      |
+|      ISTTS         |
+|____________________|
+\__________O_________/
 
 1. Create a Post
 2. Search User
